@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello  world 👋, I'm Brandon Hollas!</h1>
+<h1 align = "center"> Hello  world 👋, I'm Brandon!</h1>
 
 <p style="text-align:center"> <a href="https://github.com/Fazqix" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
