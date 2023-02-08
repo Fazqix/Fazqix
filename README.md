@@ -12,8 +12,8 @@ src="https://img.shields.io/badge/Twitter-white?&style=flat&logo=twitter&logoCol
 I am an upcoming graduate at Grand Canyon University with a degree in Cybersecurity, looking for an entry-level job in a Security Operations Center (SOC) or as a cybersecurity analyst. 
 
 What I am currently up to:
-- 📣  Leading a Project called Shell Shield Solutions (See Project Section for more details)
-- 🔨  Building a Virtual Home Lab Environment
+- 📣  Leading a Project called Shell Shield Solutions
+- 🔨  Building a Virtual Home Lab Environment for Detection and Monitoring
 - 🔎  Attending Weekly Threat Intelligence Support Unit (TISU) Training
 - 📚  Studying for Security+ Certification
 - 🔒  Competing in Western Regional Collegiate Cyber Defense Competitions (WRCCDC)
