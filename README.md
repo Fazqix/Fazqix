@@ -20,3 +20,7 @@ What I am currently up to:
 - 🚩  Participating in Capture the Flags (CTFs)
 
 My areas of interest include threat hunting, security risk, and log analysis.
+
+---
+
+![Chart not found](https://raw.githubusercontent.com/fazqix/fazqix/main/Images/ShellShieldBanner.png) 
