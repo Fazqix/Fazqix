@@ -9,18 +9,15 @@ src="https://img.shields.io/badge/VirusTotal-white?&style=flat&logo=virustotal&l
 <a href="https://twitter.com/Fazqix" target="_blank"><img alt="twitter"
 src="https://img.shields.io/badge/Twitter-white?&style=flat&logo=twitter&logoColor=blue" /></a>
 
-I am an upcoming graduate at Grand Canyon University with a degree in Cybersecurity, looking for an entry-level job in a Security Operations Center (SOC) or as a cybersecurity analyst. 
+My name is Brandon Hollas and as a recent cybersecurity college graduate, I possess a high level of motivation and skills necessary to excel in the cybersecurity field. 
 
-What I am currently up to:
-- 📣  Leading a Project called Shell Shield Solutions
-- 🔨  Building a Virtual Home Lab Environment for Detection and Monitoring
-- 🔎  Attending Weekly Threat Intelligence Support Unit (TISU) Training
-- 📚  Studying for Security+ Certification
-- 🔒  Competing in Western Regional Collegiate Cyber Defense Competitions (WRCCDC)
-- 🚩  Participating in Capture the Flags (CTFs)
+With a strong technical background and practical experience, I am well-equipped to tackle the complexities of modern cybersecurity threats. My essential communication and collaboration abilities allow me to work seamlessly with diverse teams and stakeholders, enabling me to effectively translate technical issues to non-technical stakeholders. My passion for cybersecurity and commitment to making a positive impact in the industry fuels my drive to protect against cyber threats. I am dedicated to leveraging my expertise and experience to contribute to the development of cybersecurity solutions that safeguard our digital infrastructure.
 
-My areas of interest include threat hunting, security risk, and log analysis.
+Certifications: CompTIA Security+ ce Certification and Threat Intelligence Support Unit (TISU) Certified.
 
----
+I actively compete in a variety of competitions, both focused on blue-team and red-team activities and challenges that reinforce skills and problem-solving efficiency. I was a part of Grand Canyon University's first Collegiate Cyber Defense Team to reach the Western Regional Finals.
 
-![Chart not found](https://raw.githubusercontent.com/fazqix/fazqix/main/Images/ShellShieldBanner.png) 
+My current areas of interest include the following:
+- Threat Hunting and Intelligence Gathering
+- Security Risk Identification and Management
+- Incident Response and Analysis
