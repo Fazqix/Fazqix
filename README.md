@@ -1,5 +1,9 @@
 <h1 align = "center"> Hello  world 👋, I'm Brandon!</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/brandon-hollas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <p style="text-align:center"> <a href="https://github.com/Fazqix" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/brandon-hollas/" target="_blank"><img alt="LinkedIn"
