@@ -8,15 +8,15 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-E0E0E0?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brandon.hollas@gmail.com)
 [![TRYHACKME](https://img.shields.io/badge/TryHackMe-79D200?style=for-the-badge&logo=tryhackme&logoColor=White)](https://tryhackme.com/p/Fazqix)
 
-My name is Brandon Hollas and as a recent cybersecurity college graduate, I possess a high level of motivation and skills necessary to excel in the cybersecurity field. 
+My name is Brandon Hollas and I work in InfoSec at Republic Services. I am a rising professional in the cybersecurity and information security field and aim to make a positive impact in the industry.
 
-With a strong technical background and practical experience, I am well-equipped to tackle the complexities of modern cybersecurity threats. My essential communication and collaboration abilities allow me to work seamlessly with diverse teams and stakeholders, enabling me to effectively translate technical issues to non-technical stakeholders. My passion for cybersecurity and commitment to making a positive impact in the industry fuels my drive to protect against cyber threats. I am dedicated to leveraging my expertise and experience to contribute to the development of cybersecurity solutions that safeguard our digital infrastructure.
+I have a passion for protecting organizations against cyber threat and keeping up with the latest cybersecurity news to stay ahead of the curve. I typically take time outside of work to continue to learn new skills and improve my abilities so I am well-equipped to tackle the complexities of modern cybersecurity threats. 
 
-Certifications: CompTIA Security+ ce Certification and Threat Intelligence Support Unit (TISU) Certified.
-
-I actively compete in a variety of competitions, both focused on blue-team and red-team activities and challenges that reinforce skills and problem-solving efficiency. I was a part of Grand Canyon University's first Collegiate Cyber Defense Team to reach the Western Regional Finals.
+I am dedicated to leveraging my expertise and experience to contribute to the development of cybersecurity solutions that safeguard our digital infrastructure.
 
 My current areas of interest include the following:
 - Threat Hunting and Intelligence Gathering
 - Security Risk Identification and Management
 - Incident Response and Analysis
+
+Certifications: CompTIA Security+ ce Certification
