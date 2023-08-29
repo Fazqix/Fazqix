@@ -24,3 +24,5 @@ My current areas of interest include the following:
 - Incident Response and Analysis
 
 Certifications: CompTIA Security+ ce Certification
+
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
