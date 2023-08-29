@@ -1,17 +1,12 @@
-<h1 align = "center"> Hello  world 👋, I'm Brandon!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SOURCE+SANS+PRO&weight=700&size=60&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1573&height=100&lines=Hello+World!+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandon-hollas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p style="text-align:center"> <a href="https://github.com/Fazqix" target="_blank"><img alt="Github"
-src="https://img.shields.io/badge/GitHub-black?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/brandon-hollas/" target="_blank"><img alt="LinkedIn"
-src="https://img.shields.io/badge/Linkedin-white?&style=flat&logo=linkedin&logoColor=blue" /></a>
-<a href="https://www.virustotal.com/gui/user/Fazqix" target="_blank"><img alt="VirusTotal"
-src="https://img.shields.io/badge/VirusTotal-white?&style=flat&logo=virustotal&logoColor=blue" /></a>
-<a href="https://twitter.com/Fazqix" target="_blank"><img alt="twitter"
-src="https://img.shields.io/badge/Twitter-white?&style=flat&logo=twitter&logoColor=blue" /></a>
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-F27507?style=for-the-badge&logo=safari&logoColor=white)](https://fazqix.github.io/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-hollas/)
+[![GITHUB](https://img.shields.io/badge/GitHub-570094?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fazqix)
+[![TWITTER](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Fazqix)
+[![MASTODON](https://img.shields.io/badge/Mastodon-E60E0E?style=for-the-badge&logo=Mastodon&logoColor=white)](https://infosec.exchange/@Fazqix)
+[![GMAIL](https://img.shields.io/badge/Gmail-E0E0E0?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brandon.hollas@gmail.com)
+[![TRYHACKME](https://img.shields.io/badge/TryHackMe-79D200?style=for-the-badge&logo=tryhackme&logoColor=White)](https://tryhackme.com/p/Fazqix)
 
 My name is Brandon Hollas and as a recent cybersecurity college graduate, I possess a high level of motivation and skills necessary to excel in the cybersecurity field. 
 
